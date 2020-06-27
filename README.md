@@ -37,4 +37,12 @@ If everything goes well, you should  be able to see the predcited salary vaule o
 Run the beow command to send the request with some pre-popuated values -
 ```
 python request.py
-```
+### Note
+this project is deploy on local machine not any cloud server so to deploy or run on local machine 
+1. open anaconda prompt
+2.  copy the path od app.py file where it is located
+3. type cd and path of app.py file on anaconda promt
+4. then type python space app.py and enter
+5. it privide this type of link  (http://127.0.0.1:5000/predict)
+6. copy the link and paste to the browser and run it,
+7. It will work properly
